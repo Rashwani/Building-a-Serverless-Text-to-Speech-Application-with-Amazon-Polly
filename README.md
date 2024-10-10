@@ -41,7 +41,6 @@ The architecture of this project includes the following components:
 ## Setup and Deployment
 
 To replicate this project, follow these steps:
-![Screenshot 2024-05-10 154146](https://github.com/user-attachments/assets/84e09bfd-4b7f-4ae5-a66a-cde1f1a43030)
 
 1. **Create an API Gateway**: Set up an API Gateway with a POST method to accept text input.
 2. **Deploy Lambda Function**: Write a Lambda function to process text input and call Amazon Polly to convert it into speech.
